@@ -1,11 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const name = 'André'
+  const newName = name.toUpperCase()
+
+  //Eu posso criar uma função dentro da minha função
+  function sum(a, b) {
+    return a + b
+  }
+
+  const url = 'https://via.placeholder.com/150'
+
   return (
-    <div className="App">
-      <h1>Olá React!</h1>
-      <p>Meu primeiro app.</p>
+    <div className="App"> 
+      <h2>Alterando o JSX</h2>
+      <p>Olá,{newName}</p>
+      <p>soma: {sum(1, 2)}</p>
+      <img src={url} alt="minha imagem"></img>
     </div>
   )
 }
