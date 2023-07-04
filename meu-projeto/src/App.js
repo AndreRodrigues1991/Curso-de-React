@@ -1,5 +1,6 @@
 import './App.css';
 
+
 function App() {
   const name = 'André'
   const newName = name.toUpperCase()
@@ -17,6 +18,7 @@ function App() {
       <p>Olá,{newName}</p>
       <p>soma: {sum(1, 2)}</p>
       <img src={url} alt="minha imagem"></img>
+      
     </div>
   )
 }
