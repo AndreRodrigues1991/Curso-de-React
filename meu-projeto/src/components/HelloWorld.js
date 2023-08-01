@@ -1,7 +1,9 @@
+import frase from ''./frase'
 function HelloWorld() {
 
     return (
         <div>
+            <frase/>
             <h1>Meu primeiro componente</h1> 
         </div>
     )
