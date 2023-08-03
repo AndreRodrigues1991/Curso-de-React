@@ -6,5 +6,5 @@ function frase() {
     )
 }
 
-export default frase /*Vamos exportar esse componente eu vou importar ele pro meu HelloWorldlear
+export default frase /*Vamos exportar esse componente eu vou importar ele pro meu HelloWorld
 */
