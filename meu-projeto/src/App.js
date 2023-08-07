@@ -7,7 +7,8 @@ function App() {
 
   //Eu posso criar uma função dentro da minha função
   function sum(a, b) {
-    return a + b
+    return a + b 
+    /*usamos quando queremos dar */
   }
 
   const url = 'https://via.placeholder.com/150'
