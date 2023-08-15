@@ -15,4 +15,5 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // quando precisamos usar uma variavel com valores diferente dentro primeiro adicionamos
+// dpois adicionamos uma variavel junto do prompt pra dpois poder usar o alert dpois precisamos concatenar os valores juntando os dois pra dpois poder dar um valor diferenciado 
 reportWebVitals();
