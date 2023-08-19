@@ -8,3 +8,4 @@ const FirstComponent = () => {
 }
 
 export default FirstComponent;
+//quando precisamos adicionar um elemento dentro de uma variavel 
