@@ -16,4 +16,7 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // quando precisamos usar uma variavel com valores diferente dentro primeiro adicionamos
 // dpois adicionamos uma variavel junto do prompt pra dpois poder usar o alert dpois precisamos concatenar os valores juntando os dois pra dpois poder dar um valor diferenciado 
+//quando juntamos dois valores adicionais primeiro somamos o numero 1 dpois somamos o numero 2
+//logo dpois uniremos... só assim obteremos o resultado dpois precisamos juntar os valores mas só dpois uniremos os valores juntos quando precisamos adicionar outro valor pra poder unir os dois valores logo em seguida...
+//quando iniciaremos outro tipo de arquivo jpg primeiro precisamos criar  
 reportWebVitals();
