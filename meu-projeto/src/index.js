@@ -19,4 +19,6 @@ root.render(
 //quando juntamos dois valores adicionais primeiro somamos o numero 1 dpois somamos o numero 2
 //logo dpois uniremos... só assim obteremos o resultado dpois precisamos juntar os valores mas só dpois uniremos os valores juntos quando precisamos adicionar outro valor pra poder unir os dois valores logo em seguida...
 //quando iniciaremos outro tipo de arquivo jpg primeiro precisamos criar  
+// as funções iniciais são os valores reais junto das funções adicionadas dpois ...
+// primeiro iniciamos com um valor alto dpois iniciamos com um valor bem menor... assim temos duas funções de valores diferentes... somente a função maior vai poder unir duas funções diferentes... de acordo com os valores obtidos... dpois uniremos as funções pra poder gerar o resultado obtido... somente assim 
 reportWebVitals();
